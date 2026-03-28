@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Rudra+Pratap+Singh;AIML+Engineer+in+Progress;Building+Scalable+Projects;Turning+Ideas+Into+Reality&center=true&width=600&height=60&duration=2000&pause=1000)
+
+<a href="https://git.io/typing-svg">
+<  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=600&color=8E2DE2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rudra+Pratap+Singh!;AI+%26+Web+Developer;Turning+Ideas+into+Digital+Reality"/>
+</a>
+
 
 ---
 
