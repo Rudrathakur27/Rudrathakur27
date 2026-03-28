@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Rudra%20Pratap%20Singh&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=&fontSize=35&fontColor=ffffff" />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Rudra+Pratap+Singh;AIML+Engineer+in+Progress;Turning+Ideas+Into+Reality;Building+Impactful+Projects&center=true&width=700&height=50&duration=2000&pause=1000)
 
