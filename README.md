@@ -35,23 +35,23 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rudra-pratap-singh-384376328" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rudra%20Pratap%20Singh-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin" />
   </a>
   
   <a href="https://github.com/Rudrathakur27" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Rudrathakur27-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
   
   <a href="https://www.instagram.com/___rudrapratapsingh?igsh=NGcwcnhpaGdubTZx" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@rudrapratapsingh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram--E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
   <a href="https://pin.it/6nQNOBSEJ" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-Rudra%20Pins-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pinterest--E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
 
   <a href="https://wa.me/qr/4T2IAXAM7MGDC1" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
   <a href="mailto:rudrathakur0045@gmail.com">
